@@ -10,7 +10,7 @@ Installation
    pip install -r requirements.txt
 
 3. Set up the Dataset:
-   - Download the CICIDS 2017 dataset from https://drive.google.com/file/d/1CtTG6BqyFP-jFtKXR_aXYi3dmY91uI5v/view?usp=sharing
+   - Download the dataset from https://drive.google.com/file/d/1Ws7Wvc9U_VeSNcNm8-DlUgqZkQi8JqPD/view?usp=sharing
    - Place the dataset in the /data directory of the project.
 
 4. Run the Colab Notebook:
