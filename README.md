@@ -1,11 +1,12 @@
 # Enhanced-Intrusion-Detection-in-Imbalanced-Network-Traffic-Using-Deep-Learning-Techniques
 
 <br>
+
 Installation
+
 <br>
 1. Clone the Repository:
    git clone httpshttps://github.com/Ramdileep04/Enhanced-Intrusion-Detection-in-Imbalanced-Network-Traffic-Using-Deep-Learning-Techniques
-
 
 2. Install Dependencies:
    pip install -r requirements.txt
